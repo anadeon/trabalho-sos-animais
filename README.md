@@ -1,4 +1,4 @@
-# Programa de Auxílio às ONG's no Resgate e Controle de Animais
+## Programa de Auxílio às ONG's no Resgate e Controle de Animais
 Programa desenvolvido em C para auxiliar Ong's no resgate e controle dos animais atingidos pelas enchentes no Rio Grande do Sul.
 ## Objetivo:
 O objetivo do cadastro é desenvolver o sistema de organização dividida em duas etapas:
